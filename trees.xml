@@ -16,10 +16,6 @@
 -->
 <manifest>
 
-  <remote  name="github"
-           fetch="https://github.com/Maitreya29"
-           revision="eleven" />
-
   <remote  name="githubRD"
            fetch="https://github.com/RadiantDevices/"
            revision="eleven" />
